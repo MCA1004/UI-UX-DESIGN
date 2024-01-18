@@ -3,6 +3,11 @@
   margin: 0px;
   box-sizing: border-box;
 }
+.error
+{
+  color: red;
+}
+
 .base {
   width: 100vw;
   height: 100vh;
@@ -67,6 +72,10 @@ input:focus {
 a {
   color: blue;
 }
+span
+{
+  padding: 0 10px;
+}
 
 button {
   padding: 0.5rem;
@@ -80,7 +89,7 @@ button {
   margin-bottom: 10%;
   position: absolute;
   left: 30%;
-  top: 60%;
+  top: 70%;
 }
 button:hover {
   color: blue;
@@ -89,7 +98,7 @@ button:hover {
 }
 p {
   position: absolute;
-  bottom: 20%;
+  bottom: 10%;
   width: 100%;
   color: black;
 }
