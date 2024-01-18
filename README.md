@@ -1,2 +1,2 @@
 # UI-UX-DESIGN
-A comprehensive 4-weeks Virtual Internship Program-2024 ( KIET )
+A comprehensive 15days Virtual Internship Program-2024 ( KIET )
